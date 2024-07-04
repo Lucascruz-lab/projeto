@@ -175,6 +175,11 @@ ul li a:hover {
   border-radius: 50%;
 }
 
+footer {
+  padding: 24px 0;
+  text-align: center;
+}
+
 #social-media a:hover {
   background: var(--highlight-color);
 }
